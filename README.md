@@ -106,3 +106,6 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 [6]: http://semver.org/
 [7]: https://github.com/feklee/theta-control
 [8]: https://marketplace.firefox.com/app/theta-control
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/firefox-os-remote-control)
+
